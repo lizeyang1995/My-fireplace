@@ -1,4 +1,4 @@
-package __PACKAGE__.entities
+package com.example.myapp.entities
 
 import dev.alpas.auth.BaseUser
 import dev.alpas.auth.BaseUsersTable
